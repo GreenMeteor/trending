@@ -7,7 +7,7 @@
         "minVersion": "1.15"
     },
     "keywords": ["trending", "module"],
-    "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"],
+    "screenshots": ["resources/Screenshot_1.png", "resources/Screenshot_2.png"],
     "homepage": "https://greenmeteor.net",
     "issues": "https://github.com/GreenMeteor/trending/issues",
     "authors": [
