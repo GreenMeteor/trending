@@ -4,4 +4,4 @@ The Trending module is a part of the HumHub platform and provides functionality 
 
 ## Features
 
-- Displays trending topics from all content on the platform.
+- **Trending Topics Display**: Automatically collects and displays trending topics from all content on the platform.
