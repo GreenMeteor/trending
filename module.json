@@ -1,0 +1,21 @@
+{
+    "id": "trending",
+    "version": "1.0.0",
+    "name": "Trending Topics",
+    "description": "Display Trending Topics that your users use on the dashboard sidebar.",
+    "humhub": {
+        "minVersion": "1.15"
+    },
+    "keywords": ["trending", "module"],
+    "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"],
+    "homepage": "https://greenmeteor.net",
+    "issues": "https://github.com/GreenMeteor/trending/issues",
+    "authors": [
+        {
+            "name": "Green Meteor",
+            "email": "hello@greenmeteor.net",
+            "homepage": "https://greenmeteor.net",
+            "role": "Owner"
+        }
+    ]	
+}
