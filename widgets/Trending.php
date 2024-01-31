@@ -1,6 +1,6 @@
 <?php
 
-namespace humhub\modules\trending\widgets;
+namespace gm\humhub\modules\trending\widgets;
 
 use humhub\modules\topic\models\Topic;
 use humhub\components\Widget;
