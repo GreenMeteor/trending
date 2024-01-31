@@ -1,6 +1,5 @@
 <?php
 
-use yii\helpers\Html;
 use humhub\widgets\PanelMenu;
 use humhub\modules\topic\widgets\TopicLabel;
 
