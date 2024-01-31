@@ -33,7 +33,7 @@ class Trending extends Widget
             ->limit(100)
             ->all();
 
-        if (!$trendingTopics) {
+        if (!$trending) {
             return '';
 
         }
